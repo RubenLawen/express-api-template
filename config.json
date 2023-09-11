@@ -1,0 +1,5 @@
+{
+    "dbUser": "<Your database Username (default = 'root')>",
+    "dbPassword": "<Your data Base Password>",
+    "manga": "mongo-manga-table"
+}
